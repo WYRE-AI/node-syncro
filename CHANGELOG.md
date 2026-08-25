@@ -1,45 +1,45 @@
-## [1.0.6](https://github.com/wyre-technology/node-syncro/compare/v1.0.5...v1.0.6) (2026-08-06)
+## [1.0.6](https://github.com/WYRE-AI/node-syncro/compare/v1.0.5...v1.0.6) (2026-08-06)
 
 
 ### Bug Fixes
 
-* **deps:** ignore unreachable ip-address advisory in dependabot config ([#68](https://github.com/wyre-technology/node-syncro/issues/68)) ([3847cb6](https://github.com/wyre-technology/node-syncro/commit/3847cb6f2ef728c045e3d8052c424ae518f8303e))
+* **deps:** ignore unreachable ip-address advisory in dependabot config ([#68](https://github.com/WYRE-AI/node-syncro/issues/68)) ([3847cb6](https://github.com/WYRE-AI/node-syncro/commit/3847cb6f2ef728c045e3d8052c424ae518f8303e))
 
-## [1.0.5](https://github.com/wyre-technology/node-syncro/compare/v1.0.4...v1.0.5) (2026-07-18)
-
-
-### Bug Fixes
-
-* read HTTP response bodies exactly once ([#57](https://github.com/wyre-technology/node-syncro/issues/57)) ([ddd68ce](https://github.com/wyre-technology/node-syncro/commit/ddd68cece1d7c7ae1d95f333626c0450579afbb4))
-
-## [1.0.4](https://github.com/wyre-technology/node-syncro/compare/v1.0.3...v1.0.4) (2026-07-18)
+## [1.0.5](https://github.com/WYRE-AI/node-syncro/compare/v1.0.4...v1.0.5) (2026-07-18)
 
 
 ### Bug Fixes
 
-* **tsconfig:** restore include/exclude globs ([#43](https://github.com/wyre-technology/node-syncro/issues/43)) ([fdcac1e](https://github.com/wyre-technology/node-syncro/commit/fdcac1e4bfdd7931d8185edd8d9d3f4103dcfbdf))
+* read HTTP response bodies exactly once ([#57](https://github.com/WYRE-AI/node-syncro/issues/57)) ([ddd68ce](https://github.com/WYRE-AI/node-syncro/commit/ddd68cece1d7c7ae1d95f333626c0450579afbb4))
 
-## [1.0.3](https://github.com/wyre-technology/node-syncro/compare/v1.0.2...v1.0.3) (2026-06-08)
-
-
-### Bug Fixes
-
-* **security:** bump vitest + @vitest/coverage-v8 1.x -> 3.2.6 ([#27](https://github.com/wyre-technology/node-syncro/issues/27)) ([11409f4](https://github.com/wyre-technology/node-syncro/commit/11409f4b4c6298dcbfb0bc4743368695c272bc03))
-
-## [1.0.2](https://github.com/wyre-technology/node-syncro/compare/v1.0.1...v1.0.2) (2026-05-20)
+## [1.0.4](https://github.com/WYRE-AI/node-syncro/compare/v1.0.3...v1.0.4) (2026-07-18)
 
 
 ### Bug Fixes
 
-* packaging exports + remove API key from URLs ([#2](https://github.com/wyre-technology/node-syncro/issues/2)) ([ec25bce](https://github.com/wyre-technology/node-syncro/commit/ec25bce9594befa7a7b802ec0e218cccf237c49c))
+* **tsconfig:** restore include/exclude globs ([#43](https://github.com/WYRE-AI/node-syncro/issues/43)) ([fdcac1e](https://github.com/WYRE-AI/node-syncro/commit/fdcac1e4bfdd7931d8185edd8d9d3f4103dcfbdf))
 
-## [1.0.1](https://github.com/wyre-technology/node-syncro/compare/v1.0.0...v1.0.1) (2026-03-02)
+## [1.0.3](https://github.com/WYRE-AI/node-syncro/compare/v1.0.2...v1.0.3) (2026-06-08)
 
 
 ### Bug Fixes
 
-* require Node 22+ (semantic-release@25 compatibility) ([ab6e86a](https://github.com/wyre-technology/node-syncro/commit/ab6e86a01135a25b09a23af0171044a0ea626e2f))
-* require Node 22+ (semantic-release@25 compatibility) ([b025ff8](https://github.com/wyre-technology/node-syncro/commit/b025ff8c41fb49fc6b37da29283dfedc51145049))
+* **security:** bump vitest + @vitest/coverage-v8 1.x -> 3.2.6 ([#27](https://github.com/WYRE-AI/node-syncro/issues/27)) ([11409f4](https://github.com/WYRE-AI/node-syncro/commit/11409f4b4c6298dcbfb0bc4743368695c272bc03))
+
+## [1.0.2](https://github.com/WYRE-AI/node-syncro/compare/v1.0.1...v1.0.2) (2026-05-20)
+
+
+### Bug Fixes
+
+* packaging exports + remove API key from URLs ([#2](https://github.com/WYRE-AI/node-syncro/issues/2)) ([ec25bce](https://github.com/WYRE-AI/node-syncro/commit/ec25bce9594befa7a7b802ec0e218cccf237c49c))
+
+## [1.0.1](https://github.com/WYRE-AI/node-syncro/compare/v1.0.0...v1.0.1) (2026-03-02)
+
+
+### Bug Fixes
+
+* require Node 22+ (semantic-release@25 compatibility) ([ab6e86a](https://github.com/WYRE-AI/node-syncro/commit/ab6e86a01135a25b09a23af0171044a0ea626e2f))
+* require Node 22+ (semantic-release@25 compatibility) ([b025ff8](https://github.com/WYRE-AI/node-syncro/commit/b025ff8c41fb49fc6b37da29283dfedc51145049))
 
 # 1.0.0 (2026-02-05)
 
