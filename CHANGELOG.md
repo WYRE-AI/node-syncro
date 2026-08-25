@@ -1,3 +1,11 @@
+## [1.0.7](https://github.com/WYRE-AI/node-syncro/compare/v1.0.6...v1.0.7) (2026-08-25)
+
+
+### Bug Fixes
+
+* **deps:** ignore undici in dependabot -- nested unreachable copy in npm's bundled tree ([#74](https://github.com/WYRE-AI/node-syncro/issues/74)) ([c75d036](https://github.com/WYRE-AI/node-syncro/commit/c75d03694299ae545b9a371efc136ecb462da28f))
+* migrate to WYRE-AI org (npm scope, ghcr namespace, registry) ([#76](https://github.com/WYRE-AI/node-syncro/issues/76)) ([0919728](https://github.com/WYRE-AI/node-syncro/commit/09197286b855cc36447606a7712167241632d188))
+
 ## [1.0.6](https://github.com/WYRE-AI/node-syncro/compare/v1.0.5...v1.0.6) (2026-08-06)
 
 
