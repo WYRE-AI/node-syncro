@@ -1,3 +1,11 @@
+## [1.0.8](https://github.com/WYRE-AI/node-syncro/compare/v1.0.7...v1.0.8) (2026-09-04)
+
+
+### Bug Fixes
+
+* **security:** resolve dependabot alerts via npm audit fix ([#78](https://github.com/WYRE-AI/node-syncro/issues/78)) ([57152a2](https://github.com/WYRE-AI/node-syncro/commit/57152a2e94c32732845c87364222bf60cbfaebd2))
+
+
 ## [1.0.7](https://github.com/WYRE-AI/node-syncro/compare/v1.0.6...v1.0.7) (2026-08-25)
 
 
