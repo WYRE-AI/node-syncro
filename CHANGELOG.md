@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/WYRE-AI/node-syncro/compare/v1.0.8...v1.1.0) (2026-09-04)
+
+
+### Features
+
+* **release:** use extracted CHANGELOG notes instead of --generate-notes ([#81](https://github.com/WYRE-AI/node-syncro/issues/81)) ([e79c7c6](https://github.com/WYRE-AI/node-syncro/commit/e79c7c6a5428d38187ad4ba150e4b70d021c5373)), closes [node-datto-rmm#77](https://github.com/node-datto-rmm/issues/77)
+
+
 ## [1.0.8](https://github.com/WYRE-AI/node-syncro/compare/v1.0.7...v1.0.8) (2026-09-04)
 
 
