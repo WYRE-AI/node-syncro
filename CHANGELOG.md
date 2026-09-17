@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/WYRE-AI/node-syncro/compare/v1.1.0...v1.1.1) (2026-09-15)
+
+
+### Bug Fixes
+
+* **deps:** bump vitest to resolve CVE-2026-84373 ([#83](https://github.com/WYRE-AI/node-syncro/issues/83)) ([341e29e](https://github.com/WYRE-AI/node-syncro/commit/341e29e5f377157b3cfabc120772e2f9c9409ac9))
+* **deps:** resolve js-yaml CVE-2026-84375 ([#86](https://github.com/WYRE-AI/node-syncro/issues/86)) ([358442e](https://github.com/WYRE-AI/node-syncro/commit/358442e2e137534b9bba3094ac2f96a7fd46c242))
+
+
 # [1.1.0](https://github.com/WYRE-AI/node-syncro/compare/v1.0.8...v1.1.0) (2026-09-04)
 
 
