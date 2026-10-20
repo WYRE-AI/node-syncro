@@ -47,7 +47,7 @@ export class PaginatedIterable<T> implements AsyncIterable<T> {
 
   async *[Symbol.asyncIterator](): AsyncIterator<T> {
     let currentPage = this.params?.page ?? 1;
-    let totalPages = 1;
+    let totalPages: number;
 
     do {
       // Build URL for current page
