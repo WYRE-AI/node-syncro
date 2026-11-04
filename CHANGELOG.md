@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/WYRE-AI/node-syncro/compare/v1.1.1...v1.1.2) (2026-10-13)
+
+
+### Bug Fixes
+
+* **dependabot:** ungroup msw/vitest majors from auto-merged dev-dependencies ([#92](https://github.com/WYRE-AI/node-syncro/issues/92)) ([b736cb2](https://github.com/WYRE-AI/node-syncro/commit/b736cb2642dfd2e11a29faf337bfb34c9895c369))
+
+
 ## [1.1.1](https://github.com/WYRE-AI/node-syncro/compare/v1.1.0...v1.1.1) (2026-09-15)
 
 
